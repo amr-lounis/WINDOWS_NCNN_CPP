@@ -1,0 +1,17 @@
+*.mp4
+*.jpg
+
+*.pt
+*.onnx
+*.tflite
+*.bin
+*.param
+*.pth
+
+*.zip
+*.avi
+*.exe
+
+*.vcxproj
+*.filters
+*.user
